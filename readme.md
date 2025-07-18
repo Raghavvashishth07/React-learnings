@@ -20,3 +20,12 @@ Basic message rendered on screen using component structure.
 ---
 
 _Started my React journey with a 💥_
+
+
+## 📅 Today's Progress - [19/07/2025] -Day 2
+- Learned:
+  - JSX vs React.createElement
+  - Functional Components
+  - Created custom elements
+  - Used `React.createElement()` manually
+  - Started Hooks (up next)
