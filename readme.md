@@ -68,3 +68,36 @@ Added button to increment value
 Rendered updated value on click
 
 Understood how state changes cause re-renders
+
+#### 💡 Project: `bg_changer` – Background Color Changer
+
+A cool interactive app to change background colors on button click.
+
+✅ **What I Did:**
+- Used inline style changes via `useState`  
+- Stored color values and randomized background on click  
+- Strengthened understanding of event handling and dynamic styling
+
+🎨 **Tech:** React + Tailwind + `useState`
+
+#### 🔐 Project: `password_generator`
+A powerful random password generator app with multiple customization options.
+
+✅ **Features:**
+- Include/exclude: uppercase, lowercase, numbers, symbols  
+- Adjustable password length  
+- Copy-to-clipboard feature  
+- Responsive Tailwind UI
+
+---
+
+✅ **Day 3 Summary:**  
+- Explored component props  
+- Practiced Tailwind layouts  
+- Used `useState` for reactivity  
+- Built 3 small apps to strengthen foundational React concepts  
+- Improved folder structure and code readability
+
+---
+
+🔥 Stay tuned for more exciting mini-projects coming daily!
