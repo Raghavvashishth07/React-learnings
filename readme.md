@@ -90,13 +90,47 @@ A powerful password generator with multiple customization options.
 
 🛠️ **Tech:** React + Tailwind CSS + State Logic
 
----
-
 ## ✅ Day 3 Summary:
 - Explored **props** and component-based architecture  
 - Practiced **Tailwind** styling and layouts  
 - Used `useState` for reactive rendering  
-- Built **3 functional mini-projects**  
+- Built **functional mini-projects**  
+- Improved folder structure and code readability
+
+---
+## 📅 Day 4 – 21/07/2025  
+### 🧠 React  + Props & Hooks Practice
+
+
+### 💱 Project: `currency_converter` – Real-time Currency Conversion  
+Converts one currency to another using a real-time conversion rate.
+
+✅ **Features:**
+- Custom dropdowns for selecting currencies  
+- Input field for amount  
+- Converted result shown dynamically  
+- Tailwind-styled and responsive  
+
+🛠️ **Tech:** React + Tailwind CSS + `useState` + `useEffect` (API fetch)
+
+---
+
+### 🧪 Project: `practicecc` – Practice Component Concepts  
+A dedicated mini-project to revise **component structure**, **props passing**, and **conditional rendering**.
+
+✅ **What I Did:**
+- Built nested components to simulate reusability  
+- Used conditionals (`? :`, `&&`) for conditional rendering  
+- Styled with Tailwind for layout and spacing
+
+🛠️ **Tech:** React + Tailwind CSS
+
+---
+
+## ✅ Day 4 Summary:
+- Explored **props** and component-based architecture  
+- Used `useState` for reactive rendering  
+- Built **functional mini-projects**  
 - Improved folder structure and code readability
 
 ---
@@ -111,9 +145,10 @@ A powerful password generator with multiple customization options.
 ### 🔐 password_generator  
 ![password_generator](./screenshots/password_generator.png)
 
-### 💱 currency_converter (in progress)  
+### 💱 currency_converter  
+![currency_converter](./screenshots/currency_convertor.png)
 
-
+---
 
 ## 🔮 Stay tuned...
 More exciting mini-projects, deep-dives into React Hooks, Router, and Full Stack integration coming soon!
